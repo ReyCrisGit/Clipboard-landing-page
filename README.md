@@ -31,8 +31,8 @@ Los usuarios deberían poder:
 
 ### Enlaces
 
-- URL de la solución [GitHub](https://your-solution-url.com)
-- URL del sitio en vivo: [GitHubPages](https://your-live-site-url.com)
+- URL de la solución [GitHub](https://github.com/ReyCrisGit/Clipboard-landing-page)
+- URL del sitio en vivo: [GitHubPages](https://reycrisgit.github.io/Clipboard-landing-page/)
 
 ## Mi proceso
 
